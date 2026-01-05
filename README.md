@@ -1,4 +1,4 @@
 # Tripat.com
 
 hey people,
-make your trip better
+make your trip memorable
