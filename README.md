@@ -1,4 +1,4 @@
-# Sathya-Trip-planner
+# Tripat.com
 
 hey people,
 make your trip better
